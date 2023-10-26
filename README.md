@@ -3,7 +3,7 @@
 <div align="left">
  
 ![image](https://github.githubassets.com/images/mona-whisper.gif) 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&Center=true&width=800&lines=BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&right=true&Center=true&width=800&lines=BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;) 
  </div>
  <h1></h1>
  
