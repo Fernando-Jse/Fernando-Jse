@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/9b0a69e63ea560a6a78a52ae31ab42eae7f4defe6471b7151b44dcc5b3e187b2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313931393730266865696768743d3132302673656374696f6e3d686561646572" width="200%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="200%" align="center">
 
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&Center=true&width=950&lines=BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;) 
@@ -54,4 +54,4 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
- <img src="https://camo.githubusercontent.com/e678fc2dff6ea01c3c2f38032940125d23c8bd6f37fc4b6f415a4b759ae78296/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313931393730266865696768743d3132302673656374696f6e3d666f6f746572" width="200%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="200%" align="center">
