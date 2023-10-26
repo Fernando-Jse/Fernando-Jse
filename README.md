@@ -13,9 +13,9 @@
 
 <h1 align="center">Lenguajes mas usados</h1>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fernando-Jse&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fernando-Jse&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
@@ -39,6 +39,7 @@
 <p/>
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
+
 <h1></h1>
 <div align="center">
  
@@ -46,9 +47,10 @@
 
 <div align="right">
  
-![](https://komarev.com/ghpvc/?username=Fernando-Jse-Fernando-Jse&color=red)
+![](https://komarev.com/ghpvc/?username=Fernando-Jse-Fernando-Jse&color=red&style=plastic)
 </div>
 </div> 
 
+<!------------------------------------------------------------------------------------------------------------------------------------->
 
- <img src="https://camo.githubusercontent.com/e678fc2dff6ea01c3c2f38032940125d23c8bd6f37fc4b6f415a4b759ae78296/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313931393730266865696768743d3132302673656374696f6e3d666f6f746572" width="200%" align="center">
+<img src="https://camo.githubusercontent.com/e678fc2dff6ea01c3c2f38032940125d23c8bd6f37fc4b6f415a4b759ae78296/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313931393730266865696768743d3132302673656374696f6e3d666f6f746572" width="200%" align="center">
