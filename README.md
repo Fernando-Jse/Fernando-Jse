@@ -1,9 +1,6 @@
 <img src="https://camo.githubusercontent.com/9b0a69e63ea560a6a78a52ae31ab42eae7f4defe6471b7151b44dcc5b3e187b2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313931393730266865696768743d3132302673656374696f6e3d686561646572" width="200%" align="center">
 
  
-![image](https://github.githubassets.com/images/mona-whisper.gif) 
-
- 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&Center=true&width=950&lines=BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;) 
  <h1></h1>
  
@@ -17,7 +14,7 @@
 
 <h1 align="center">Lenguajes mas usados</h1>
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fernando-Jse&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fernando-Jse&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" /> 
   
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
