@@ -55,11 +55,10 @@
  
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<div align="right" width="25">
-
-![](https://count.getloli.com/get/@:Fernando-Jse?theme=rule34)
+<div align="right" style="width: 100px;">
+    <img src="https://count.getloli.com/get/@:Fernando-Jse?theme=rule34" style="width: 100%;">
 </div>
- 
+</div>
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="200%" align="center">
