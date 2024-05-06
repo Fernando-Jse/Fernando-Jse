@@ -62,5 +62,5 @@
 </div> 
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
-<img src="https://count.getloli.com/get/@:Fernando-Jse?theme=rule34" width="200%" align="center">
+<img src="https://count.getloli.com/get/@:Fernando-Jse?theme=rule34" width="200" align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="200%" align="center">
