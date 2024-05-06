@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="200%" align="center">
 
-![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Fer.svg)
- 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&Center=true&width=950&lines=BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;BIENVENIDO/A+A+MI+PERFIL+DE+GITHUB;) 
  <h1></h1>
  
