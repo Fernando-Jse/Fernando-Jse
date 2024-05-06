@@ -56,7 +56,7 @@
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </div>
 
-<div align="right" width="5">
+<div align="right" width="5%">
 
 ![](https://count.getloli.com/get/@:Fernando-Jse?theme=rule34)
 </div>
