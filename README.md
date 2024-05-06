@@ -58,7 +58,7 @@
 
 <div align="right" style="width: 15;">
  
- ![](https://count.getloli.com/get/@:WillDev12?theme=rule34)
+ ![](https://count.getloli.com/get/@:Fernando-Jse?theme=rule34)
 </div>
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
