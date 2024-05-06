@@ -19,7 +19,7 @@
 </div> 
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="65" align="center"><h1 align="center"> Conocimientos</h1>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="55" align="center"><h1 align="center"> Conocimientos</h1>
 <br>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
