@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src = "./assets/mdImages/about_me.gif" width = 50px>
+  <<img src = "[./assets/mdImages/about_me.gif](https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/about_me.gif)" width = 50px>
   Contribuciones
 </h1>
 
