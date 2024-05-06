@@ -56,11 +56,11 @@
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <div align="right">
- 
+
+![](https://count.getloli.com/get/@:Fernando-Jse?theme=rule34)
 ![](https://komarev.com/ghpvc/?username=Fernando-Jse-Fernando-Jse&color=red&style=plastic)
 </div>
 </div> 
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
-<img src="https://count.getloli.com/get/@:Fernando-Jse?theme=rule34" width="200" align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="200%" align="center">
