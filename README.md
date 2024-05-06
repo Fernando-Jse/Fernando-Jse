@@ -57,7 +57,7 @@
 </div>
 
 <div align="right" style="width: 15px;">
-    <img src="https://count.getloli.com/get/@:Fernando-Jse?theme=rule34" style="width: 100%;">
+   ![](https://count.getloli.com/get/@:Fernando-Jse?theme=rule34)
 </div>
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
