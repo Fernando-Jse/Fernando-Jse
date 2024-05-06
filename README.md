@@ -11,7 +11,11 @@
  
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
-<h1 align="center">Lenguajes mas usados</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55">
+  Lenguajes mas usados
+</h1>
+
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fernando-Jse&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" /> 
   
