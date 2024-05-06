@@ -5,7 +5,7 @@
  
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
-<p align="center"><img src="https://count.getloli.com/get/@:WillDev12?theme=rule34" width="400"></p><br>
+<p align="center"><img src="https://count.getloli.com/get/@:Fernando-Jse?theme=rule34" width="400"></p><br>
 
 <h1 align="center">Contribuciones</h1>
 
