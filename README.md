@@ -55,10 +55,9 @@
  
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<div align="right">
+<div align="right" width="200">
 
 ![](https://count.getloli.com/get/@:Fernando-Jse?theme=rule34)
-![](https://komarev.com/ghpvc/?username=Fernando-Jse-Fernando-Jse&color=red&style=plastic)
 </div>
 </div> 
 
