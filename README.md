@@ -20,17 +20,6 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
-<style>
-  .h1-with-image {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .h1-with-image img {
-    margin-right: 10px;
-  }
-</style>
-
 <h1 class="h1-with-image">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="55">
   Conocimientos
