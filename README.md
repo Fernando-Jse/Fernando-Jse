@@ -10,7 +10,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="https://cdn.lordicon.com/dxjqoygy.gif" width="80">
+  <img src="https://cdn.lordicon.com/osuawstm.gif" width="80">
   Contribuciones
 </h1>
 
