@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Jse&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&hide_border=false" width="600">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" align="center">
   Contribuciones
 </h1>
 
