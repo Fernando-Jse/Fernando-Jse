@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIyY21ib3M0NW9pYm9ueGZidXpueHh3ZXp6eHh6eHh6eHh6eHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/v6aOebdclro6ZJ5x0W/giphy.gif" width="45" align="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZndzZndzZndzZndzZndzZndzZndzZndzZndzZndzZndzZndmPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/Lp9uR60O7N0r8yG4uG/giphy.gif" width="45" align="center">
   Contribuciones
 </h1>
 
