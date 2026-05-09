@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Crecimiento" width="50" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" alt="Racha" width="50" align="center">
   Contribuciones
 </h1>
 
