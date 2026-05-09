@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="https://cdn.lordicon.com/fyuvvywa.gif" width="50" align="center">
+  <img src="./contributions.svg" width="300" align="center">
   Contribuciones
 </h1>
 
