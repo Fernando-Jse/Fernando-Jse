@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="https://cdn.lordicon.com/msetevbt.gif" width="50" align="center">
+  <img src="https://raw.githubusercontent.com/nayanr3/nayanr3/main/assets/activity.gif" width="40" align="center">
   Contribuciones
 </h1>
 
