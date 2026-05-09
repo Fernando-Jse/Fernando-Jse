@@ -11,13 +11,15 @@
  
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=02D9F7FF&text_color=c9d1d9" alt="Top Languages" />
-</div>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55">
+  Lenguajes más usados
+</h1>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fernando-Jse&theme=tokyonight&hide_border=true&background=0d1117&stroke=02D9F7FF&ring=02D9F7FF&fire=02D9F7FF" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fernando-Jse&show_icons=true&theme=tokyonight&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF" />
+  <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&theme=tokyonight&hide_border=true&title_color=02D9F7FF" />
+</div>
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
