@@ -17,7 +17,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&theme=dark&hide_border=true&title_color=02D9F7FF&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fernando-Jse&show_icons=true&theme=tokyonight&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF" />
+  <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&theme=tokyonight&hide_border=true&title_color=02D9F7FF" />
 </div>
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
