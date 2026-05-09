@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/V8QY4L4U5S95Q4Q0eY/giphy.gif" width="45" align="center">
+  <img src="https://raw.githubusercontent.com/nayanr3/nayanr3/main/assets/activity.gif" width="40" align="center">
   Contribuciones
 </h1>
 
