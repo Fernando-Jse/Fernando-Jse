@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" align="center">
   Contribuciones
 </h1>
 
