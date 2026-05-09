@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="./contributions.svg" width="300" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
   Contribuciones
 </h1>
 
