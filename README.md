@@ -13,14 +13,16 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55">
-  Lenguajes mas usados
+  Lenguajes más usados
 </h1>
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fernando-Jse&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" /> 
+  <!-- Estadísticas Generales -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fernando-Jse&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de Fernando-Jse" />
   
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
+  <!-- Lenguajes más usados -->
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&theme=tokyonight&hide_border=true&title_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Lenguajes más usados" />
+</div>
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
