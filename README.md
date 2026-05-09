@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZndzZndzZndzZndzZndzZndzZndzZndzZndzZndzZndzZndmPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/Lp9uR60O7N0r8yG4uG/giphy.gif" width="45" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Crecimiento" width="50" align="center">
   Contribuciones
 </h1>
 
