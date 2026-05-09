@@ -6,11 +6,9 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/nayanr3/nayanr3/main/assets/activity.gif" width="40" align="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZndzZndzZndzZndzZndzZndzZndzZndzZndzZndzZndzZndmPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/Lp9uR60O7N0r8yG4uG/giphy.gif" width="45" align="center">
   Contribuciones
 </h1>
-
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Jse&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
