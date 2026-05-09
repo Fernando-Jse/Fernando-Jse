@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
-  <img src="blob:https://lordicon.com/eab037be-cc8b-4468-968b-78c693824bb6" width="50" align="center">
+  <img src="https://cdn.lordicon.com/msetevbt.gif" width="50" align="center">
   Contribuciones
 </h1>
 
