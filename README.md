@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00b3ff/Fernando-Jse" alt="Gráfico de actividad" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Jse&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de actividad" />
 </p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------- -->
