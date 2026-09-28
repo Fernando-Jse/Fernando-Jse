@@ -11,7 +11,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" align="center">
-  Contribuciones
+  Contribucione
 </h1>
 
 <p align="center">
