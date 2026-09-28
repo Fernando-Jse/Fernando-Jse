@@ -14,19 +14,23 @@
   Contribuciones
 </h1>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Jse&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-<!------------------------------------------------------------------------------------------------------------------------------------->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Jse&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Fernando's github activity graph" width="100%" />
+  </a>
+</p>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55">
   Lenguajes más usados
 </h1>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fernando-Jse&show_icons=true&theme=tokyonight&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF" />
-  <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&theme=tokyonight&hide_border=true&title_color=02D9F7FF" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fernando-Jse&show_icons=true&theme=tokyonight&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF" alt="Estadísticas de GitHub" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&theme=tokyonight&hide_border=true&title_color=02D9F7FF" alt="Lenguajes más usados" />
+</p>
 
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
