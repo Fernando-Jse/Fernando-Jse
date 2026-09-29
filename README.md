@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Jse&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de actividad" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fernando-Jse&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Grafico de actividad" width="100%" />
 </p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------- -->
