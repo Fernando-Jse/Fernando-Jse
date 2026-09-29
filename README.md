@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Fernando-Jse&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Grafico de actividad" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Jse&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de actividad" />
 </p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------- -->
