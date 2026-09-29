@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fernando-Jse&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Grafico de actividad" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Fernando-Jse&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Grafico de actividad" />
 </p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------- -->
