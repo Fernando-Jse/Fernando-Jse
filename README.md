@@ -30,6 +30,11 @@
   <img width="48%" src="https://stats.justin035.workers.dev/api/top-langs/?username=Fernando-Jse&layout=compact&theme=tokyonight&hide_border=true&title_color=02D9F7FF" alt="Lenguajes más usados" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Fernando-Jse&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Fernando-Jse GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fernando-Jse&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Fernando-Jse Top Languages" height="180" />
+</p>
+
 <!------------------------------------------------------------------------------------------------------------------------------------->
 
 <h1 align="center">
